@@ -27,7 +27,7 @@ This project demonstrates core frontend concepts like DOM manipulation, event ha
 ## 📸 Demo
 
 👉 A demo video of the project is shared on LinkedIn  
-
+CodeAlpha_Music-Player/music-player.mp3
 ---
 
 ## 📂 Project Structure
